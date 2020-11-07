@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Basic-project_groceru_bud/static/css/main.a903c182.chunk.css",
+    "main.js": "/Basic-project_groceru_bud/static/js/main.be93dcf0.chunk.js",
+    "main.js.map": "/Basic-project_groceru_bud/static/js/main.be93dcf0.chunk.js.map",
+    "runtime-main.js": "/Basic-project_groceru_bud/static/js/runtime-main.dc7db746.js",
+    "runtime-main.js.map": "/Basic-project_groceru_bud/static/js/runtime-main.dc7db746.js.map",
+    "static/js/2.22b6d6b3.chunk.js": "/Basic-project_groceru_bud/static/js/2.22b6d6b3.chunk.js",
+    "static/js/2.22b6d6b3.chunk.js.map": "/Basic-project_groceru_bud/static/js/2.22b6d6b3.chunk.js.map",
+    "index.html": "/Basic-project_groceru_bud/index.html",
+    "precache-manifest.3158fe9d65550baf3ed4246b07f09585.js": "/Basic-project_groceru_bud/precache-manifest.3158fe9d65550baf3ed4246b07f09585.js",
+    "service-worker.js": "/Basic-project_groceru_bud/service-worker.js",
+    "static/css/main.a903c182.chunk.css.map": "/Basic-project_groceru_bud/static/css/main.a903c182.chunk.css.map",
+    "static/js/2.22b6d6b3.chunk.js.LICENSE.txt": "/Basic-project_groceru_bud/static/js/2.22b6d6b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc7db746.js",
+    "static/js/2.22b6d6b3.chunk.js",
+    "static/css/main.a903c182.chunk.css",
+    "static/js/main.be93dcf0.chunk.js"
+  ]
+}
